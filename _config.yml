@@ -1,7 +1,7 @@
-title: Co-opcomplete.GitHub.io
-description: Co-op Complete Group Webpage
-google_analytics: 
-show_downloads: true
+title: Co-op Complete
+description: How's that side-project going?
+google_analytics:
+show_downloads: false
 theme: jekyll-theme-cayman
 
 gems:
