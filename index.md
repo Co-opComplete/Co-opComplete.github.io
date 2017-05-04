@@ -3,7 +3,7 @@ Co-op Complete is a weekly meeting dedicated to working on your software project
 
 It is easy to have an idea for a project. Sometimes it is even easy to get started. But it is really hard to finish anything. Often the best way to make progress is by establishing accountability around a consistent practice. Co-op Complete is aspiring to do this by having weekly meetings (preferably in-person) with like-minded people who have or want to help with a project.
 
-Meet the group and get more details at our Meetup.com page - http://www.meetup.com/Co-op-Complete-Dallas-TX/
+Meet the group and get more details at our Meetup.com page - [http://www.meetup.com/Co-op-Complete-Dallas-TX/]
 
 
 ## FAQs
@@ -13,7 +13,7 @@ Meet the group and get more details at our Meetup.com page - http://www.meetup.c
 <div class="panel panel-default">
 <div class="panel-heading" role="tab" id="headingOne">
 <h4 class="panel-title">
-<a role="button" data-toggle="collapse" data-parent="#accordion" href="#questionOne" aria-expanded="true" aria-controls="questionOne">
+<a role="button" data-toggle="collapse" data-parent="#accordion" href="#questionOne" aria-expanded="false" aria-controls="questionOne">
 What kind of projects?
 </a>
 </h4>
@@ -32,7 +32,7 @@ For each project we usually ask two questions:
 <div class="panel panel-default">
 <div class="panel-heading" role="tab" id="headingTwo">
 <h4 class="panel-title">
-<a role="button" data-toggle="collapse" data-parent="#accordion" href="#questionTwo" aria-expanded="true" aria-controls="questionTwo">
+<a role="button" data-toggle="collapse" data-parent="#accordion" href="#questionTwo" aria-expanded="false" aria-controls="questionTwo">
 I'm not a programmer but I've got this awesome idea/business/startup. Can you guys help me find a programmer to build it?
 </a>
 </h4>
@@ -51,7 +51,7 @@ That said, it is 100% OK to come and not have a particular project that you’re
 <div class="panel panel-default">
 <div class="panel-heading" role="tab" id="headingThree">
 <h4 class="panel-title">
-<a role="button" data-toggle="collapse" data-parent="#accordion" href="#questionThree" aria-expanded="true" aria-controls="questionThree">
+<a role="button" data-toggle="collapse" data-parent="#accordion" href="#questionThree" aria-expanded="false" aria-controls="questionThree">
 Is this a social / networking meetup?
 </a>
 </h4>
@@ -65,7 +65,7 @@ Yes and No. The meeting is social and we love to meet new folks and hear about t
 <div class="panel panel-default">
 <div class="panel-heading" role="tab" id="headingFour">
 <h4 class="panel-title">
-<a role="button" data-toggle="collapse" data-parent="#accordion" href="#questionFour" aria-expanded="true" aria-controls="questionFour">
+<a role="button" data-toggle="collapse" data-parent="#accordion" href="#questionFour" aria-expanded="false" aria-controls="questionFour">
 Will there be scheduled talks about technical topics?
 </a>
 </h4>
@@ -80,7 +80,7 @@ There may be occasional demos but we are not planning on having any talks.
 <div class="panel panel-default">
 <div class="panel-heading" role="tab" id="headingFive">
 <h4 class="panel-title">
-<a role="button" data-toggle="collapse" data-parent="#accordion" href="#questionFive" aria-expanded="true" aria-controls="questionFive">
+<a role="button" data-toggle="collapse" data-parent="#accordion" href="#questionFive" aria-expanded="false" aria-controls="questionFive">
 How do the meetings work?
 </a>
 </h4>
