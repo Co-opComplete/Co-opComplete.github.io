@@ -1,0 +1,9 @@
+version: '3'
+services:
+  coopcomplete:
+    image: envygeeks/alpine
+    build: .
+    ports:
+      - "8181:80"
+    volumes:
+      - .:/opt/app
