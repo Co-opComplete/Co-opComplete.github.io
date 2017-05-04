@@ -3,7 +3,7 @@ Co-op Complete is a weekly meeting dedicated to working on your software project
 
 It is easy to have an idea for a project. Sometimes it is even easy to get started. But it is really hard to finish anything. Often the best way to make progress is by establishing accountability around a consistent practice. Co-op Complete is aspiring to do this by having weekly meetings (preferably in-person) with like-minded people who have or want to help with a project.
 
-Meet the group and get more details at our Meetup.com page - [http://www.meetup.com/Co-op-Complete-Dallas-TX/]
+Meet the group and get more details at our Meetup.com page - [http://www.meetup.com/Co-op-Complete-Dallas-TX/](http://www.meetup.com/Co-op-Complete-Dallas-TX/)
 
 
 ## FAQs
