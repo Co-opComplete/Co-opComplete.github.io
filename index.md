@@ -1,4 +1,3 @@
-## Co-op Complete.
 Co-op Complete is a weekly meeting dedicated to working on your software project. Think of it like a study hall. Or a hackathon.
 
 It is easy to have an idea for a project. Sometimes it is even easy to get started. But it is really hard to finish anything. Often the best way to make progress is by establishing accountability around a consistent practice. Co-op Complete is aspiring to do this by having weekly meetings (preferably in-person) with like-minded people who have or want to help with a project.
